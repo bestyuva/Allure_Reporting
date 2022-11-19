@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 12 19:03:09 IST 2022","Wed Jan 12 19:03:09 IST 2022","269","","test_affordability","Test_Metro_Area_Datatest","","","test_2_Available_Neighbourhood_Check",""
+"failed","Wed Jan 12 19:03:08 IST 2022","Wed Jan 12 19:03:09 IST 2022","100","","test_affordability","Test_Metro_Area_Datatest","","","test_1_Nulldata_Check",""
+"passed","Wed Jan 12 19:03:09 IST 2022","Wed Jan 12 19:03:09 IST 2022","16","","test_affordability","Test_Metro_Area_Datatest","","","test_3_Completed",""

@@ -1,0 +1,60 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_affordability",
+    "children" : [ {
+      "name" : "test_1_Nulldata_Check",
+      "uid" : "265a4e8ea08f23e3",
+      "parentUid" : "a3afaf5a3543865133232f0ca462df34",
+      "status" : "failed",
+      "time" : {
+        "start" : 1641994388985,
+        "stop" : 1641994389085,
+        "duration" : 100
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_2_Available_Neighbourhood_Check",
+      "uid" : "e1050c4800f1e241",
+      "parentUid" : "a3afaf5a3543865133232f0ca462df34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641994389101,
+        "stop" : 1641994389370,
+        "duration" : 269
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_3_Completed",
+      "uid" : "509b26857aaf40ac",
+      "parentUid" : "a3afaf5a3543865133232f0ca462df34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641994389370,
+        "stop" : 1641994389386,
+        "duration" : 16
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a3afaf5a3543865133232f0ca462df34"
+  } ]
+}

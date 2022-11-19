@@ -1,0 +1,30 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: FAILURE: \nassert False == \"Results Received for NULL'[]' data, Hence case Failed\"\ntest_affordability.py:40 in test_1_Nulldata_Check() -> check.equal(len(metro_records1) == 0, \"Results Received for NULL'[]' data, Hence case Failed\")\n------------------------------------------------------------\nFailed Checks: 1",
+      "children" : [ {
+        "name" : "test_1_Nulldata_Check",
+        "uid" : "265a4e8ea08f23e3",
+        "parentUid" : "c7e1bcfea8d696c9608c1128909077ea",
+        "status" : "failed",
+        "time" : {
+          "start" : 1641994388985,
+          "stop" : 1641994389085,
+          "duration" : 100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c7e1bcfea8d696c9608c1128909077ea"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

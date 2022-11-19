@@ -1,0 +1,60 @@
+{
+  "c128d45a4f3e39062c31ebeebb909988" : {
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "265a4e8ea08f23e3",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: FAILURE: \nassert False == \"Results Received for NULL'[]' data, Hence case Failed\"\ntest_affordability.py:40 in test_1_Nulldata_Check() -> check.equal(len(metro_records1) == 0, \"Results Received for NULL'[]' data, Hence case Failed\")\n------------------------------------------------------------\nFailed Checks: 1",
+      "time" : {
+        "start" : 1641994388985,
+        "stop" : 1641994389085,
+        "duration" : 100
+      }
+    } ]
+  },
+  "e30af7350edd034c6f79647cc1e0cc4b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "509b26857aaf40ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641994389370,
+        "stop" : 1641994389386,
+        "duration" : 16
+      }
+    } ]
+  },
+  "04ac22c666d7e54f75d25af5fb2b8115" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e1050c4800f1e241",
+      "status" : "passed",
+      "time" : {
+        "start" : 1641994389101,
+        "stop" : 1641994389370,
+        "duration" : 269
+      }
+    } ]
+  }
+}

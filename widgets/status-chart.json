@@ -1,0 +1,31 @@
+[ {
+  "uid" : "e1050c4800f1e241",
+  "name" : "test_2_Available_Neighbourhood_Check",
+  "time" : {
+    "start" : 1641994389101,
+    "stop" : 1641994389370,
+    "duration" : 269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "265a4e8ea08f23e3",
+  "name" : "test_1_Nulldata_Check",
+  "time" : {
+    "start" : 1641994388985,
+    "stop" : 1641994389085,
+    "duration" : 100
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "509b26857aaf40ac",
+  "name" : "test_3_Completed",
+  "time" : {
+    "start" : 1641994389370,
+    "stop" : 1641994389386,
+    "duration" : 16
+  },
+  "status" : "passed",
+  "severity" : "minor"
+} ]

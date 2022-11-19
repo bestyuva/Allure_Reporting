@@ -1,0 +1,19 @@
+Selecting rows from sixwallz_app_neighbourhood table using cursor.fetchall
+_____________ResultCount____________ = 4
+Print each row and it's columns values
+Id =  101708
+neighbour_name =  Boston Harbor Islands
+affordability_data  =  [] 
+
+Id =  101692
+neighbour_name =  Long Island
+affordability_data  =  [] 
+
+Id =  101764
+neighbour_name =  Clark's Island
+affordability_data  =  [] 
+
+Id =  101727
+neighbour_name =  Deer Island
+affordability_data  =  [] 
+

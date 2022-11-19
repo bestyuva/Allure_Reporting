@@ -1,0 +1,64 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_affordability",
+    "children" : [ {
+      "name" : "Test_Metro_Area_Datatest",
+      "children" : [ {
+        "name" : "test_1_Nulldata_Check",
+        "uid" : "265a4e8ea08f23e3",
+        "parentUid" : "93e7612d1fd218311dfa6f3bf6f65997",
+        "status" : "failed",
+        "time" : {
+          "start" : 1641994388985,
+          "stop" : 1641994389085,
+          "duration" : 100
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_2_Available_Neighbourhood_Check",
+        "uid" : "e1050c4800f1e241",
+        "parentUid" : "93e7612d1fd218311dfa6f3bf6f65997",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641994389101,
+          "stop" : 1641994389370,
+          "duration" : 269
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_3_Completed",
+        "uid" : "509b26857aaf40ac",
+        "parentUid" : "93e7612d1fd218311dfa6f3bf6f65997",
+        "status" : "passed",
+        "time" : {
+          "start" : 1641994389370,
+          "stop" : 1641994389386,
+          "duration" : 16
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "93e7612d1fd218311dfa6f3bf6f65997"
+    } ],
+    "uid" : "0bc477557b0ef6a46aecf91d8cf088f6"
+  } ]
+}
